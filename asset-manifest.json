@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/AlbumAdvertisementSite/static/css/main.5c4672ea.css",
+    "main.js": "/AlbumAdvertisementSite/static/js/main.2587fa71.js",
+    "static/media/protectyourroots.jpg": "/AlbumAdvertisementSite/static/media/protectyourroots.cedbea451e67003041b3.jpg",
+    "static/media/behindofwar.jpg": "/AlbumAdvertisementSite/static/media/behindofwar.395c41bd71b476376340.jpg",
+    "static/media/demolitionofobsidian.jpg": "/AlbumAdvertisementSite/static/media/demolitionofobsidian.50e5c1029a88b0a9d3df.jpg",
+    "static/media/soundcloud.png": "/AlbumAdvertisementSite/static/media/soundcloud.14ce9d43e1e4a96ca577.png",
+    "static/media/google.png": "/AlbumAdvertisementSite/static/media/google.71434964df0389c4e999.png",
+    "static/media/spotify.png": "/AlbumAdvertisementSite/static/media/spotify.2ea068fc1f5930c1b782.png",
+    "static/media/youtube.png": "/AlbumAdvertisementSite/static/media/youtube.0b5494d9f4051ea47d59.png",
+    "static/media/tidal.png": "/AlbumAdvertisementSite/static/media/tidal.2dc97dfba28b7d468a2c.png",
+    "static/media/drumkit.svg": "/AlbumAdvertisementSite/static/media/drumkit.91520740702f3fee6e05222ed0ed9d3f.svg",
+    "static/media/keyboard.svg": "/AlbumAdvertisementSite/static/media/keyboard.ac3a851f18aeb1a2895df87ed963d92d.svg",
+    "static/media/vocal.svg": "/AlbumAdvertisementSite/static/media/vocal.bad30cf54b4b568862c06a10fd32f131.svg",
+    "static/media/rhythmguitar.svg": "/AlbumAdvertisementSite/static/media/rhythmguitar.d5c9442c4fbbdbaf4216e2b7633181c7.svg",
+    "static/media/leadguitar.svg": "/AlbumAdvertisementSite/static/media/leadguitar.df8c386f20563bc03d644cd01763daf4.svg",
+    "static/media/bassguitar.svg": "/AlbumAdvertisementSite/static/media/bassguitar.fc2b0df3b1a5114ea7f9f6d4198a1c09.svg",
+    "index.html": "/AlbumAdvertisementSite/index.html",
+    "main.5c4672ea.css.map": "/AlbumAdvertisementSite/static/css/main.5c4672ea.css.map",
+    "main.2587fa71.js.map": "/AlbumAdvertisementSite/static/js/main.2587fa71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c4672ea.css",
+    "static/js/main.2587fa71.js"
+  ]
+}
