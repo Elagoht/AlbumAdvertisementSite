@@ -13,6 +13,7 @@ function AllAlbums() {
           key={i}
           onClick={() => {
             setSelected(i)
+            window.scrollTo({ top: 0, behavior: 'smooth' })
           }}
           className={selected === i ? "current-album" : null}
         >
