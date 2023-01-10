@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AlbumAdvertisementSite/static/css/main.5c4672ea.css",
-    "main.js": "/AlbumAdvertisementSite/static/js/main.2587fa71.js",
+    "main.css": "/AlbumAdvertisementSite/static/css/main.b10b60bf.css",
+    "main.js": "/AlbumAdvertisementSite/static/js/main.7ae6d139.js",
     "static/media/protectyourroots.jpg": "/AlbumAdvertisementSite/static/media/protectyourroots.cedbea451e67003041b3.jpg",
     "static/media/behindofwar.jpg": "/AlbumAdvertisementSite/static/media/behindofwar.395c41bd71b476376340.jpg",
     "static/media/demolitionofobsidian.jpg": "/AlbumAdvertisementSite/static/media/demolitionofobsidian.50e5c1029a88b0a9d3df.jpg",
@@ -17,11 +17,11 @@
     "static/media/leadguitar.svg": "/AlbumAdvertisementSite/static/media/leadguitar.df8c386f20563bc03d644cd01763daf4.svg",
     "static/media/bassguitar.svg": "/AlbumAdvertisementSite/static/media/bassguitar.fc2b0df3b1a5114ea7f9f6d4198a1c09.svg",
     "index.html": "/AlbumAdvertisementSite/index.html",
-    "main.5c4672ea.css.map": "/AlbumAdvertisementSite/static/css/main.5c4672ea.css.map",
-    "main.2587fa71.js.map": "/AlbumAdvertisementSite/static/js/main.2587fa71.js.map"
+    "main.b10b60bf.css.map": "/AlbumAdvertisementSite/static/css/main.b10b60bf.css.map",
+    "main.7ae6d139.js.map": "/AlbumAdvertisementSite/static/js/main.7ae6d139.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c4672ea.css",
-    "static/js/main.2587fa71.js"
+    "static/css/main.b10b60bf.css",
+    "static/js/main.7ae6d139.js"
   ]
 }
